@@ -1,0 +1,4 @@
+[
+    {"name": "水果", "children": [{"name": "苹果"}, {"name": "橙子"}]},
+    {"name": "蔬菜", "children": [{"name": "胡萝卜"}, {"name": "土豆"}]}
+]
